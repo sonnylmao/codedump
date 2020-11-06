@@ -1,2 +1,2 @@
 # codedump
-used for dumping all useful code
+added useful coding 'blocks'
